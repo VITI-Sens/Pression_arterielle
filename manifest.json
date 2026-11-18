@@ -1,0 +1,9 @@
+{
+  "name": "Tension artérielle",
+  "short_name": "Tension",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#b91c1c",
+  "lang": "fr"
+}
